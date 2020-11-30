@@ -9,20 +9,8 @@
 
  💬 Ask me about React and React Native
 
- 📫 How to reach me: https://www.linkedin.com/in/prerit-bhandari-469b35198/
+ 📫 Find Me in LinkedIn: https://www.linkedin.com/in/prerit-bhandari-469b35198/
 
  ⚡ Fun fact: Joke With Me and I will make Joke to your Life
 
-<!--
-**PreritBhandari/PreritBhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-
-- 🤔 I’m looking for help with ...
-
-
-- 😄 Pronouns: ...
-
--->
