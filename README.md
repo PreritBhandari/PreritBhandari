@@ -1,6 +1,5 @@
 ### Hi there 👋 Its me Prerit Bhandari
 ### Enthusiastic Learner
-https://scontent.fktm1-2.fna.fbcdn.net/v/t1.0-1/p200x200/82210425_2614751518623215_7407756831029723136_n.jpg?_nc_cat=111&ccb=2&_nc_sid=7206a8&_nc_ohc=5XikTxM7rL4AX_KXLia&_nc_ht=scontent.fktm1-2.fna&tp=6&oh=13267501bb51241969d66c3d8cdec0c1&oe=5FEBB33A
 
 
  🔭 I’m currently working on React Projects
