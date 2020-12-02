@@ -16,7 +16,7 @@
  
  
 ---
-![Prerit's Github stats](https://github-readme-stats.vercel.app/api?username=PreritBhandari&show_icons=true&theme=merko)
+![Prerit's Github stats](https://github-readme-stats.vercel.app/api?username=PreritBhandari&show_icons=false&theme=merko)
 
 
 
