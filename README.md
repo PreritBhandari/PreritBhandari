@@ -13,5 +13,11 @@
  📫 Find Me in LinkedIn: https://www.linkedin.com/in/prerit-bhandari-469b35198/
 
  ⚡ Fun fact: Joke With Me and I will make Joke to your Life
+ 
+ 
+---
+![Sujan's github stats](https://github-readme-stats.vercel.app/api?username=InvalidSB&show_icons=true&theme=merko)
+
+
 
 
