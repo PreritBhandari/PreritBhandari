@@ -4,7 +4,7 @@
 
  🔭 I’m currently working on React Projects
  
- 🌱 I’m currently learning React,Redux,Node.js
+ 🌱 I’m currently learning DevOps
 
  👯 I’m looking to collaborate on Django DRF and Node.js
 
