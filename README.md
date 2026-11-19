@@ -4,7 +4,7 @@
 
  🔭 I’m currently working on SaaS Projects
  
- 🌱 I’m currently learning NLP and Computer Vision
+ 🌱 I’m currently learning digital forensics around containerized environments.
 
  👯 I’m looking to collaborate on any sort of Interesting Projects
 
