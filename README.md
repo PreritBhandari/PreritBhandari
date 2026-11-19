@@ -10,7 +10,7 @@
 
  💬 Ask me about Software Development and Database forensics
 
- 📫 Find Me in LinkedIn: https://www.linkedin.com/in/prerit-bhandari-469b35198/
+ 📫 Find Me in LinkedIn: https://www.linkedin.com/in/prerit-bhandari/
 
  ⚡ Fun fact: I love writing poems
  
